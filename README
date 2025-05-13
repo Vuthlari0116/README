@@ -1,1 +1,20 @@
 
+Library Management System
+
+Project Description
+The Library Management System is a database designed to manage library operations, including book cataloging, member registration, and loan tracking.
+
+How to Run/Setup the Project
+1. Clone the repository: git clone https://github.com/Vuthlari0116/README/edit/main/README
+2. Import the SQL file into your MySQL database management system.
+3. Use a MySQL client (e.g., MySQL Workbench) to connect to your database and execute queries.
+
+ERD (Entity-Relationship Diagram)
+[Insert screenshot or link to ERD]
+
+Repository Contents
+- library_management.sql: SQL file containing the database schema and tables.
+- README.md: This file, containing project information and setup instructions.
+
+GitHub Repository
+You can find the complete project on GitHub: https://github.com/Vuthlari0116/README/edit/main/README
